@@ -1,38 +1,57 @@
-## Table of contents
+# Jam Sesh-ion 🎶
 
+**Connecting University of Hawaiʻi Music**
+
+## Table of Contents
 * [Overview](#overview)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Development History](#development-history)
-* [Example enhancements](#example-enhancements)
+   * [Milestone 1](#milestone-1)
+   * [Milestone 2](#milestone-2)
+   * [Milestone 3](#milestone-3)
+* [Example Enhancements](#example-enhancements)
 * [Team](#team)
 
-## Overview
-Many University of Hawaiʻi students possess musical talents, yet they lack an easy way to connect with others who share similar tastes and compatible musical skills. This limitation prevents them from experiencing the enjoyment of informal jam sessions, which could potentially evolve into performing musical groups.
+---
 
-**The solution**: Our Jam Shesh-ion application addresses this issue by allowing students to log in or create profiles that showcase their musical tastes, skills, and goals—whether they're interested in occasional jam sessions or forming a performing band. Profiles can also feature links to YouTube videos or SoundCloud tracks, enabling students to share examples of their musicianship and connect with others who resonate with their style and ambitions.
+## Overview
+Many University of Hawaiʻi students have incredible musical talent but lack a simple way to connect with others who share compatible musical skills and interests. This gap means they miss out on the joy of informal jam sessions that could grow into dynamic performing groups.
+
+### The Solution
+**Jam Sesh-ion** offers a creative platform where students can easily connect and collaborate musically. Users can log in or create profiles showcasing their musical tastes, skills, and goals—whether they’re into occasional jam sessions or looking to form a serious band. Each profile can include links to YouTube videos or SoundCloud tracks, allowing students to share examples of their musicianship and find others who align with their style and vision.
 
 ## User Guide
+[Details on using Jam Sesh-ion, including account creation, profile setup, and connecting with other musicians, will be added soon.]
+
+---
 
 ## Community Feedback
+We encourage feedback from the University of Hawaiʻi community to make Jam Sesh-ion better and more inclusive. Let us know what features you’d like to see, your experience with the app, and any other thoughts on how we can foster a thriving musical community!
+
+---
 
 ## Development History
 
-### Milestone 1 
-**Soon to be added... 
+### Milestone 1
+**Coming soon...**
 
-### Milestone 2 
-**Soon to be added... 
-
+### Milestone 2
+**Coming soon...**
 
 ### Milestone 3
-**Soon to be added... 
+**Coming soon...**
 
+---
 
-## Example enhancements
+## Example Enhancements
+[Examples of future enhancements will be listed here. Possible improvements may include group chat features, event scheduling tools, or expanded profile options.]
 
+---
 
 ## Team
-
-Jam Sesh-ion is designed, implemented, and maintained by Cody Torres, Junle Yan, Lewen Lin, and Justine Afaga. 
-
+**Jam Sesh-ion** is proudly designed, implemented, and maintained by:
+- Cody Torres
+- Junle Yan
+- Lewen Lin
+- Justine Afaga
