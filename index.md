@@ -1,5 +1,4 @@
-theme: Architect
-
+theme: jekyll-theme-minimal
 # Jam Sesh-ion 🎶
 
 **Connecting University of Hawaiʻi Music**
