@@ -1,3 +1,5 @@
+theme: Architect
+
 # Jam Sesh-ion 🎶
 
 **Connecting University of Hawaiʻi Music**
