@@ -1,6 +1,6 @@
 Member: Justine Afaga, Lewen Lin, Junle Yan, and Cody Torres
 
-## A link to the GitHub organization associated with this project and all of its repositories.
+## Links to the GitHub organization associated with this project and all of its repositories.
 
 ## A link to the Team Contract for this team.
 * [Contract](https://docs.google.com/document/d/1f1U1kpcvNE-tf4cDfWqKXqCFyr5-8HhCTtcAMeXk4z4/edit?usp=sharing) the link!!
