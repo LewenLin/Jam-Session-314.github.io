@@ -1,6 +1,3 @@
-theme: jekyll-theme-minimal
-include: ["_includes/custom-style.css"]
-
 # Jam Sesh-ion 🎶
 
 **Connecting University of Hawaiʻi Music**
