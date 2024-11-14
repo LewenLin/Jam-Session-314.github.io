@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 include: ["_includes/custom-style.css"]
 title: ""  # Leave blank to remove the title, or add a custom title
+
+sidebar: false
+profile: false
