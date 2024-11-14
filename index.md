@@ -1,7 +1,5 @@
 # Jam Sesh-ion 🎶
 
-**Connecting University of Hawaiʻi Music**
-
 ## Table of Contents
 * [Overview](#overview)
 * [User Guide](#user-guide)
