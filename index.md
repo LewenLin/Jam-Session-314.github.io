@@ -25,17 +25,17 @@ Many University of Hawaiʻi students have incredible musical talent but lack a s
 [Details on using Jam Sesh-ion, including ideal plan of account creation, profile setup, and navigation]
 
 ### Landing Page
-<img width="300px" class="rounded float-start pe-4" src="../img/landingPage.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/landingPage.png">
 ### Profile 
-<img width="300px" class="rounded float-start pe-4" src="../img/profile.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/profile.png">
 ### Sign-in / Sign-up
-<img width="300px" class="rounded float-start pe-4" src="../img/logIn.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/logIn.png">
 ### Creating an Account Page 
-<img width="300px" class="rounded float-start pe-4" src="../img/creatingProfile.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/creatingProfile.png">
 ### Home Page
-<img width="300px" class="rounded float-start pe-4" src="../img/userInterface.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/userInterface.png">
 ### Jam Session 
-<img width="300px" class="rounded float-start pe-4" src="../img/jamSesh.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/jamSesh.png">
 
 ---
 
