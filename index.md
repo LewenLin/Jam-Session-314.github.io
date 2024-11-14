@@ -45,7 +45,10 @@ We encourage feedback from the University of Hawaiʻi community to make Jam Sesh
 ## Development History
 
 ### Milestone 1
-**Coming soon...**
+- For this milestone, we do hope to develop our M1 page, as well with some other things we need to finalize on whether its structure wise of the pages.
+- Also adding on the Deployment section
+- Finalize this whole entire page, like adding the link to the contract.
+- We'll try to keep things updated here with the screenshots of every progress we make
 
 ### Milestone 2
 **Coming soon...**
