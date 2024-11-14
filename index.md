@@ -22,7 +22,16 @@ Many University of Hawaiʻi students have incredible musical talent but lack a s
 **Jam Sesh-ion** offers a creative platform where students can easily connect and collaborate musically. Users can log in or create profiles showcasing their musical tastes, skills, and goals—whether they’re into occasional jam sessions or looking to form a serious band. Each profile can include links to YouTube videos or SoundCloud tracks, allowing students to share examples of their musicianship and find others who align with their style and vision.
 
 ## User Guide
-[Details on using Jam Sesh-ion, including account creation, profile setup, and connecting with other musicians, will be added soon.]
+[Details on using Jam Sesh-ion, including ideal plan of account creation, profile setup, and navigation]
+
+### Landing Page
+### Profile 
+### Sign-in / Sign-up
+### Sign-in Page 
+### Creating an Account Page 
+### Profile Creation 
+### Home Page
+### Jam Session 
 
 ---
 
