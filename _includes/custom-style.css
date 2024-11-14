@@ -1,1 +1,13 @@
+/* Center the main content */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
 
+/* Ensure the container doesn’t expand too wide */
+.container {
+    max-width: 800px;
+    padding: 20px;
+}
