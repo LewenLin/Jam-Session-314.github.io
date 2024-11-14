@@ -60,7 +60,7 @@ We encourage feedback from the University of Hawaiʻi community to make Jam Sesh
 
 ## Team
 **Jam Sesh-ion** is proudly designed, implemented, and maintained by:
-- Cody Torres
+- [Cody Torres](https://codygt3.github.io)
 - Junle Yan
 - Lewen Lin
 - Justine Afaga
