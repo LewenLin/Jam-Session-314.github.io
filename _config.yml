@@ -8,3 +8,6 @@ github:
   repository_url: https://github.com/Jam-Session-314/Jam-Session-314.github.io
 gems:
   - jekyll-mentions
+
+# Custom variable for the image path
+hero_image: assets/images/jam-session.jpg
