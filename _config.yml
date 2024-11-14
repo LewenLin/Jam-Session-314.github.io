@@ -1,0 +1,2 @@
+theme: jekyll-theme-minimal
+include: ["_includes/custom-style.css"]
